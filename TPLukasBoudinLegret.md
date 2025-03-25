@@ -15,38 +15,36 @@ appliquant à un scénario concret : la gestion d’une bibliothèque de livres 
  Si vous bloquez, utilisez man ou --help pour trouver des indices.
 ```
 **1. Création de la bibliothèque**
-    1. Créez un dossier principal nommé Bibliotheque et entrez dedans.
-    2. Comment pouvez-vous vérifier que vous êtes bien dans le bon dossier?
-    3. Listez le contenu de votre répertoire. Que voyez-vous?
+	1. Créez un dossier principal nommé Bibliotheque et entrez dedans.
+	2. Comment pouvez-vous vérifier que vous êtes bien dans le bon dossier?
+	3. Listez le contenu de votre répertoire. Que voyez-vous?
 
 **2. Organisation des livres**
-    1. Créez deux dossiers : Romans et Science_Fiction.
-    2. Créez trois fichiers texte correspondant à des livres (livre1.txt, livre2.txt,
-       livre3.txt).
-    3. Déplacez livre1.txt dans Romans et copiez livre2.txt dans Science_Fiction.
-    4. Affichez une liste détaillée des fichiers et dossiers présents dans Bibliotheque.
+	1. Créez deux dossiers : Romans et Science_Fiction.
+	2. Créez trois fichiers texte correspondant à des livres (livre1.txt, livre2.txt,livre3.txt).
+	3. Déplacez livre1.txt dans Romans et copiez livre2.txt dans Science_Fiction.
+    	4. Affichez une liste détaillée des fichiers et dossiers présents dans Bibliotheque.
 
 **3. Gestion du contenu des fichiers**
-    1. Ajoutez du texte dans livre1.txt sans ouvrir d’éditeur de texte.
-    2. Affichez le contenu de livre1.txt.
-    3. Affichez uniquement les 5 dernières lignes de livre1.txt. Que remarquez-vous
-      ? (la commande tail pourrait être utile)
-    4. Utilisez une commande pour afficher progressivement le contenu de livre1.txt.
+    	1. Ajoutez du texte dans livre1.txt sans ouvrir d’éditeur de texte.
+    	2. Affichez le contenu de livre1.txt.
+    	3. Affichez uniquement les 5 dernières lignes de livre1.txt. Que remarquez-vous ? (la commande tail pourrait être utile)
+    	4. Utilisez une commande pour afficher progressivement le contenu de livre1.txt.
 
 **4. Recherche et modification de contenu**
-    1. Recherchez si le mot "histoire" est présent dans livre1.txt.
-    2. Remplacez le mot "histoire" par "roman" dans livre1.txt.
-    3. Vérifiez que la modification a bien été prise en compte.
+    	1. Recherchez si le mot "histoire" est présent dans livre1.txt.
+    	2. Remplacez le mot "histoire" par "roman" dans livre1.txt.
+    	3. Vérifiez que la modification a bien été prise en compte.
 
 **5. Gestion avancée**
-    1. Affichez uniquement les fichiers .txt présents dans Bibliotheque et ses sous-dossiers.
-    2. Redirigez la liste des fichiers de Bibliotheque vers un fichier contenu_bibliotheque.txt.
-    3. Filtrez ce fichier pour n’afficher que les fichiers contenant "livre" dans leur nom.
-    4. Comment pouvez-vous afficher la documentation d’une commande que vous ne connaissez pas bien?
+    	1. Affichez uniquement les fichiers .txt présents dans Bibliotheque et ses sous-dossiers.
+    	2. Redirigez la liste des fichiers de Bibliotheque vers un fichier contenu_bibliotheque.txt.
+    	3. Filtrez ce fichier pour n’afficher que les fichiers contenant "livre" dans leur nom.
+    	4. Comment pouvez-vous afficher la documentation d’une commande que vous ne connaissez pas bien?
 
 **6. Nettoyage et téléchargement**
-    1. Nettoyez l’affichage du terminal.
-    2. Téléchargez un livre en ligne au format texte et placez-le dans Bibliotheque sous le nom Orgue_et_Prejuges.txt. (https://www.gutenberg.org propose des ebooks gratuits et wget pourrait nous être utile)
+    	1. Nettoyez l’affichage du terminal.
+    	2. Téléchargez un livre en ligne au format texte et placez-le dans Bibliotheque sous le nom Orgue_et_Prejuges.txt. (https://www.gutenberg.org propose des ebooks gratuits et wget pourrait nous être utile)
 
 **Page 2 : Correction du TP**
 
