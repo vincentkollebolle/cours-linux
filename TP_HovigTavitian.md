@@ -1,40 +1,40 @@
 # Exercice :
 
-## 1. Créez un dossier `exercice_linux` et entrez dedans.
+### 1. Créez un dossier `exercice_linux` et entrez dedans.
 
-## 2. Créez trois fichiers : `fichier1.txt`, `fichier2.txt`, `fichier3.txt`.
+### 2. Créez trois fichiers : `fichier1.txt`, `fichier2.txt`, `fichier3.txt`.
 
-## 3. Listez le contenu du dossier.
+### 3. Listez le contenu du dossier.
 
-## 4. Ajoutez du texte dans `fichier1.txt`.
+### 4. Ajoutez du texte dans `fichier1.txt`.
 
-## 5. Copiez `fichier1.txt` dans un dossier `dossier1`.
+### 5. Copiez `fichier1.txt` dans un dossier `dossier1`.
 
-## 6. Déplacez `fichier2.txt` dans `dossier1`.
+### 6. Déplacez `fichier2.txt` dans `dossier1`.
 
-## 7. Listez le contenu de `dossier1`.
+### 7. Listez le contenu de `dossier1`.
 
-## 8. Affichez le contenu de `fichier1.txt`.
+### 8. Affichez le contenu de `fichier1.txt`.
 
-## 9. Ajoutez une deuxième ligne à `fichier1.txt`.
+### 9. Ajoutez une deuxième ligne à `fichier1.txt`.
 
-## 10. Affichez les 2 premières lignes de `fichier1.txt`.
+### 10. Affichez les 2 premières lignes de `fichier1.txt`.
 
-## 11. Affichez la dernière ligne du fichier.
+### 11. Affichez la dernière ligne du fichier.
 
-## 12. Recherchez le mot "fichier" dans `fichier1.txt`.
+### 12. Recherchez le mot "fichier" dans `fichier1.txt`.
 
-## 13. Remplacez "fichier" par "document" dans `fichier1.txt`.
+### 13. Remplacez "fichier" par "document" dans `fichier1.txt`.
 
-## 14. Affichez uniquement le premier mot de chaque ligne.
+### 14. Affichez uniquement le premier mot de chaque ligne.
 
-## 15. Effacez l’écran du terminal.
+### 15. Effacez l’écran du terminal.
 
-## 16. Téléchargez la page d’accueil de Wikipedia.
+### 16. Téléchargez la page d’accueil de Wikipedia.
 
-## 17. Affichez les premières lignes du fichier téléchargé.
+### 17. Affichez les premières lignes du fichier téléchargé.
 
-## 18. Affichez le manuel de la commande `grep`.
+### 18. Affichez le manuel de la commande `grep`.
 
 # Corigé :
 
