@@ -1,0 +1,73 @@
+
+
+Enoncé
+
+-Déplacement dans le terminal :
+-Va dans ton répertoire personnel avec cd.
+-Liste les fichiers et dossiers avec ls (essaie avec différentes options comme ls -l ou ls -a).
+
+-Création et manipulation de fichiers :
+-Crée un dossier nommé test_linux.
+-Entrer dans ce dossier.
+-Crée un fichier vide nommé fichier1.txt.
+-Copie fichier1.txt sous le nom fichier2.txt.
+-Renomme fichier2.txt en fichierrenommé.txt.
+
+-Édition et lecture de fichiers :
+-Écris “Bonjour, ceci est la fin du monde” dans fichier1.txt.
+-Affiche le contenu du fichier.
+-Lis le fichier ligne par ligne.
+
+-Manipulation avancée :
+-Recherche un mot précis dans fichier1.txt  "test" fichier1.txt.
+-Remplace “monde” par “cirque”.
+
+-Exploration du système :
+-Affiche le chemin du dossier actuel.
+-Vide le terminal.
+-Affiche le manuel de ls.
+
+-Redirection et flux de données :
+-Redirige le contenu de fichier1.txt vers output.txt.
+-Afficher la première colonne du fichier.
+
+
+Resolution
+
+cd ~  
+
+ls 
+
+ls -l     
+
+ls -a     
+
+mkdir test_linux      
+
+cd test_linux         
+
+touch fichier1.txt
+
+cp fichier1.txt fichier2.txt
+
+mv fichier2.txt fichierrenommé.txt  
+
+echo "Bonjour, ceci est la fin du monde" > fichier1.txt 
+
+cat fichier1.txt 
+
+less fichier1.txt 
+
+grep "test" fichier1.txt  
+
+sed 's/monde/cirque/g' fichier1.txt 
+
+pwd     
+
+clear 
+
+man ls  
+
+cat fichier1.txt > output.txt 
+
+awk '{print $1}' fichier1.txt 
