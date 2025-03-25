@@ -1,6 +1,6 @@
 1) Ecrire bonjour sur la ligne de commande
 
-echo bonjour  OU echo “bonjour”
+`echo bonjour  OU echo “bonjour”`
 
 2) Créez un dossier nommé “example”
 
